@@ -80,7 +80,7 @@ To maintain a safe and inclusive space for everyone to learn and grow, contribut
 
 This project follows the [MIT License](/LICENSE).
 
-#### Made with ♥ by <a href="https://swapnilsparsh.github.io/">Swapnil Srivastava</a>
+#### Made with ♥ by <a href="https://swapnilsparsh.github.io/">Tarun Bisht</a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://swapnilsparsh.github.io/)
 
