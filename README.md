@@ -62,20 +62,6 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 47  |       [Caesar Cipher](https://30daysofjs.netlify.app/47%20-%20caesar%20cipher/2_caesar_cipher)        |
 | 48  |       [Attendance Table](https://30daysofjs.netlify.app/48%20-%20attendance%20table/)        |
 
-## Contributing
-
-Before making any contribution, big or small, Contributors are advised to go through the [Contributing Guidelines](./CONTRIBUTING.md). 
-
-## Code of Conduct
-
-To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md). 
-
-## Our valuable Contributors
-
-<a href="https://github.com/swapnilsparsh/30DaysOfJavaScript/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=swapnilsparsh/30DaysOfJavaScript" />
-</a>
-
 ## License
 
 This project follows the [MIT License](/LICENSE).
