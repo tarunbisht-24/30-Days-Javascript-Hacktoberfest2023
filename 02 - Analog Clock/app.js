@@ -13,8 +13,8 @@ function clockIntervalTick() {
     
     console.log("Hour: " + hr + " Minutes: " + min + " Seconds: " + sec);
     
-    let hrPosition = (hr*360/12)+(min*(360/60)/12);
-    let minPosition = (min*360/60)+(sec*(360/60)/60);
+    let hrPosition = (hr*360/12)+(min*(360/60)/12);  // hours+min
+    let minPosition = (min*360/60)+(sec*(360/60)/60);  //min+sec
     let secPosition = (sec*360/60);
     
     HOURSTIME.style.transform = "rotate(" + hrPosition + "deg)";
