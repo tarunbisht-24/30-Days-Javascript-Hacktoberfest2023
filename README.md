@@ -13,7 +13,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 3   |    [CSS Variables](https://30daysofjs.netlify.app/03%20-%20random%20color%20generator/)             |
 | 4   |              [JS Array Cardio](https://30daysofjs.netlify.app/04%20-%20digital%20clock/)            |
 | 5   | [Random Password Generator](https://30daysofjs.netlify.app/05%20-%20random%20password%20generator/) |
-| 6   |                    [Calendar](https://30daysofjs.netlify.app/06%20-%20calendar/)                    |
+| 6   |                    [idk bruh](https://30daysofjs.netlify.app/06%20-%20calendar/)                    |
 | 7   |        [Dynamic Form Field](https://30daysofjs.netlify.app/07%20-%20dynamic%20form%20field/)        |
 | 8   |             [Number Counter](https://30daysofjs.netlify.app/08%20-%20number%20counter/)             |
 | 9   |                  [Dice Roll](https://30daysofjs.netlify.app/09%20-%20dice%20roll/)                  |
