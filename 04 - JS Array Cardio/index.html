@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,16 +51,34 @@
     console.log(totalYears);
 
     const oldest = inventors.sort(function(a,b) {
-      const lastGuy = a.passed - a.year;
-      const nextGuy = b.passed - b.year;
-      return lastGuy > nextGuy ? -1 : 1;
+    const lastGuy = a.passed - a.year;
+    const nextGuy = b.passed - b.year;
+    return lastGuy > nextGuy ? -1 : 1;
     });
 
     console.table(oldest);
 
     const links = Array.from(document.querySelectorAll('.mw-category a'));
     const de = links.map(link => link.textContent)
-    const idk = de.filter(streetName => streetName.includes('de'));
+                    .filter(streetName => streetName.includes('de'));
+
+    const alpha = people.sort((lastOne, nextOne) => {
+    const[aLast, aFirst] = lastOne.split(', ');
+    const[bLast, bFirst] = nextOne.split(', ');
+    return aLast > bLast ? 1 : -1;
+    });
+
+    console.log(alpha);
+    
+    const transportation = data.reduce(function(obj, item) {
+      if(!obj[item])
+      {
+        obj[item] = 0;
+      }
+      obj[item]++;
+      return obj;
+    }, {});
+    console.log(transportation);
     </script>
 
 </body>
