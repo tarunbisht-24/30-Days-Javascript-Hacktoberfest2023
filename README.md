@@ -17,7 +17,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 7   |        [Dynamic Form Field](https://30daysofjs.netlify.app/07%20-%20dynamic%20form%20field/)        |
 | 8   |             [idk](https://30daysofjs.netlify.app/08%20-%20number%20counter/)                        |
 | 9   |                  [Dice Roll](https://30daysofjs.netlify.app/09%20-%20dice%20roll/)                  |
-| 10  |    [Emoji Switcher](https://30daysofjs.netlify.app/10%20-%20emoji%20switcher%20like%20discord/)     |
+| 10  |    [why soEmoji Switcher](https://30daysofjs.netlify.app/10%20-%20emoji%20switcher%20like%20discord/)     |
 | 11  |               [Color Picker](https://30daysofjs.netlify.app/11%20-%20color%20picker/)               |
 | 12  |            [Custom QR Code](https://30daysofjs.netlify.app/12%20-%20custom%20qr%20code/)            |
 | 13  |            [Favicon Fetcher](https://30daysofjs.netlify.app/13%20-%20favicon%20fetcher/)            |
