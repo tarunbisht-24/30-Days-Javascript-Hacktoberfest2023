@@ -5,25 +5,25 @@ html {
     font-size: 20px;
     font-weight: 200;
 }
-
-*, *::before, *::after {
+  
+*, *:before, *:after {
     box-sizing: inherit;
 }
-
+  
 input {
     width: 100%;
     padding: 20px;
 }
-
+  
 .search-form {
     max-width: 400px;
     margin: 50px auto;
 }
-
+  
 input.search {
     text-align: center;
     outline: 0;
-    border: 10px solid #f7f7f7;
+    border: 10px solid #F7F7F7;
     width: 120%;
     left: -10%;
     position: relative;
@@ -38,12 +38,13 @@ input.search {
     margin: 0;
     padding: 0;
     position: relative;
+    /*perspective: 20px;*/
 }
-
+  
 .suggestions li {
     background: white;
     list-style: none;
-    border-bottom: 1px solid #d8d8d8;
+    border-bottom: 1px solid #D8D8D8;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
     margin: 0;
     padding: 20px;
@@ -53,22 +54,20 @@ input.search {
     text-transform: capitalize;
 }
 
-.sugggestions li:nth-child(odd)
-{
+.suggestions li:nth-child(odd) {
     transform: perspective(100px) rotateX(-3deg) translateY(3px);
-    background: linear-gradient(to top, #ffffff 0%, #efefef 100%);
+    background: linear-gradient(to top,  #ffffff 0%,#EFEFEF 100%);
 }
 
-.suggestions li:nth-child(even)
-{
+.suggestions li:nth-child(even) {
     transform: perspective(100px) rotateX(3deg) translateY(2px) scale(1.001);
-    background: linear-gradient(to bottom, #ffffff 0%, #efefef 100%);
+    background: linear-gradient(to bottom,  #ffffff 0%,#EFEFEF 100%);
 }
 
 span.population {
-    font: 15px;
+    font-size: 15px;
 }
 
 .h1 {
-    background: #ffc600;
+    background-color: #ffc600;
 }
