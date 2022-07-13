@@ -14,8 +14,8 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 4   |              [JS Array Cardio](https://30daysofjs.netlify.app/04%20-%20digital%20clock/)            |
 | 5   | [Flexbox Panel Gallery](https://30daysofjs.netlify.app/05%20-%20random%20password%20generator/)     |
 | 6   |                    [Type Ahead](https://30daysofjs.netlify.app/06%20-%20calendar/)                  |
-| 7   |        [Dynamic Form Field](https://30daysofjs.netlify.app/07%20-%20dynamic%20form%20field/)        |
-| 8   |             [idk](https://30daysofjs.netlify.app/08%20-%20number%20counter/)                        |
+| 7   |        [Array Cardio Day 2](https://30daysofjs.netlify.app/07%20-%20dynamic%20form%20field/)        |
+| 8   |             [Fun with HTML5 Canvas](https://30daysofjs.netlify.app/08%20-%20number%20counter/)      |
 | 9   |                  [Dice Roll](https://30daysofjs.netlify.app/09%20-%20dice%20roll/)                  |
 | 10  |    [Emoji Switcher](https://30daysofjs.netlify.app/10%20-%20emoji%20switcher%20like%20discord/)     |
 | 11  |               [Color Picker](https://30daysofjs.netlify.app/11%20-%20color%20picker/)               |
