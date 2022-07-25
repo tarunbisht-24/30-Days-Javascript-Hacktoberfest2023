@@ -18,8 +18,8 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 8   |    [Fun with HTML5 Canvas](https://30daysofjs.netlify.app/08%20-%20number%20counter/)               |
 | 9   |    [Dev Tools Domination](https://30daysofjs.netlify.app/09%20-%20dice%20roll/)                     |
 | 10  |    [Hold Shift and Check Checkboxes](https://30daysofjs.netlify.app/10%20-%20emoji%20switcher%20)   |
-| 11  |        [Custom Video Player](https://30daysofjs.netlify.app/11%20-%20color%20picker/)               |
-| 12  |            [Custom QR Code](https://30daysofjs.netlify.app/12%20-%20custom%20qr%20code/)            |
+| 11  |    [Custom Video Player](https://30daysofjs.netlify.app/11%20-%20color%20picker/)                   |
+| 12  |    [Key Sequence Detection](https://30daysofjs.netlify.app/12%20-%20custom%20qr%20code/)            |
 | 13  |            [Favicon Fetcher](https://30daysofjs.netlify.app/13%20-%20favicon%20fetcher/)            |
 | 14  |              [Visit Counter](https://30daysofjs.netlify.app/14%20-%20visit%20counter/)              |
 | 15  |             [Joke Generator](https://30daysofjs.netlify.app/15%20-%20joke%20generator/)             |
