@@ -20,14 +20,14 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 10  |    [Hold Shift and Check Checkboxes](https://30daysofjs.netlify.app/10%20-%20emoji%20switcher%20)   |
 | 11  |    [Custom Video Player](https://30daysofjs.netlify.app/11%20-%20color%20picker/)                   |
 | 12  |    [Key Sequence Detection](https://30daysofjs.netlify.app/12%20-%20custom%20qr%20code/)            |
-| 13  |            [Favicon Fetcher](https://30daysofjs.netlify.app/13%20-%20favicon%20fetcher/)            |
-| 14  |              [Visit Counter](https://30daysofjs.netlify.app/14%20-%20visit%20counter/)              |
-| 15  |             [Joke Generator](https://30daysofjs.netlify.app/15%20-%20joke%20generator/)             |
-| 16  |            [Countdown Timer](https://30daysofjs.netlify.app/16%20-%20countdown%20timer/)            |
-| 17  |        [Text Speed Control](https://30daysofjs.netlify.app/17%20-%20text%20speed%20control/)        |
-| 18  |                   [Stopwatch](https://30daysofjs.netlify.app/18%20-%20stopwatch/)                   |
-| 19  |              [Traffic Lights](https://30daysofjs.netlify.app/19%20-traffic%20lights/)               |
-| 20  |             [Levitate Board](https://30daysofjs.netlify.app/20%20-%20levitate%20board/)             |
+| 13  |    [Favicon Fetcher](https://30daysofjs.netlify.app/13%20-%20favicon%20fetcher/)                    |
+| 14  |    [Visit Counter](https://30daysofjs.netlify.app/14%20-%20visit%20counter/)                        |
+| 15  |    [Joke Generator](https://30daysofjs.netlify.app/15%20-%20joke%20generator/)                      |
+| 16  |    [Countdown Timer](https://30daysofjs.netlify.app/16%20-%20countdown%20timer/)                    |
+| 17  |    [Text Speed Control](https://30daysofjs.netlify.app/17%20-%20text%20speed%20control/)            |
+| 18  |    [Stopwatch](https://30daysofjs.netlify.app/18%20-%20stopwatch/)                                  |
+| 19  |    [Traffic Lights](https://30daysofjs.netlify.app/19%20-traffic%20lights/)                         |
+| 20  |    [Levitate Board](https://30daysofjs.netlify.app/20%20-%20levitate%20board/)                      |
 | 21  |                [Wave Effect](https://30daysofjs.netlify.app/21%20-%20wave%20effect/)                |
 | 22  |                [Zoom Effect](https://30daysofjs.netlify.app/22%20-%20zoom%20effect/)                |
 | 23  |                [Drawing Pad](https://30daysofjs.netlify.app/23%20-%20drawing%20pad/)                |
