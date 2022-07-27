@@ -20,7 +20,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 10  |    [Hold Shift and Check Checkboxes](https://30daysofjs.netlify.app/10%20-%20emoji%20switcher%20)   |
 | 11  |    [Custom Video Player](https://30daysofjs.netlify.app/11%20-%20color%20picker/)                   |
 | 12  |    [Key Sequence Detection](https://30daysofjs.netlify.app/12%20-%20custom%20qr%20code/)            |
-| 13  |    [Favicon Fetcher](https://30daysofjs.netlify.app/13%20-%20favicon%20fetcher/)                    |
+| 13  |    [Slide in on Scroll](https://30daysofjs.netlify.app/13%20-%20favicon%20fetcher/)                 |
 | 14  |    [Visit Counter](https://30daysofjs.netlify.app/14%20-%20visit%20counter/)                        |
 | 15  |    [Joke Generator](https://30daysofjs.netlify.app/15%20-%20joke%20generator/)                      |
 | 16  |    [Countdown Timer](https://30daysofjs.netlify.app/16%20-%20countdown%20timer/)                    |
