@@ -28,16 +28,16 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 18  |    [Stopwatch](https://30daysofjs.netlify.app/18%20-%20stopwatch/)                                  |
 | 19  |    [Traffic Lights](https://30daysofjs.netlify.app/19%20-traffic%20lights/)                         |
 | 20  |    [Levitate Board](https://30daysofjs.netlify.app/20%20-%20levitate%20board/)                      |
-| 21  |                [Wave Effect](https://30daysofjs.netlify.app/21%20-%20wave%20effect/)                |
-| 22  |                [Zoom Effect](https://30daysofjs.netlify.app/22%20-%20zoom%20effect/)                |
-| 23  |                [Drawing Pad](https://30daysofjs.netlify.app/23%20-%20drawing%20pad/)                |
-| 24  |               [Word Counter](https://30daysofjs.netlify.app/24%20-%20word%20counter/)               |
-| 25  |                [Weather App](https://30daysofjs.netlify.app/25%20-%20weather%20app/)                |
-| 26  |                  [Calculator](https://30daysofjs.netlify.app/26%20-%20calculator/)                  |
-| 27  |      [Memory Matching Game](https://30daysofjs.netlify.app/27%20-%20memory%20matching%20game/)      |
-| 28  |               [Music Player](https://30daysofjs.netlify.app/28%20-%20music%20player/)               |
-| 29  |                [To Do List](https://30daysofjs.netlify.app/29%20-%20to%20do%20list/)                |
-| 30  |               [Tic Tac Toe](https://30daysofjs.netlify.app/30%20-%20tic%20tac%20toe/)               |
+| 21  |    [Wave Effect](https://30daysofjs.netlify.app/21%20-%20wave%20effect/)                            |
+| 22  |    [Zoom Effect](https://30daysofjs.netlify.app/22%20-%20zoom%20effect/)                            |
+| 23  |    [Drawing Pad](https://30daysofjs.netlify.app/23%20-%20drawing%20pad/)                            |
+| 24  |    [Word Counter](https://30daysofjs.netlify.app/24%20-%20word%20counter/)                          |
+| 25  |    [Weather App](https://30daysofjs.netlify.app/25%20-%20weather%20app/)                            |
+| 26  |    [Calculator](https://30daysofjs.netlify.app/26%20-%20calculator/)                                |
+| 27  |    [Memory Matching Game](https://30daysofjs.netlify.app/27%20-%20memory%20matching%20game/)        |
+| 28  |    [Music Player](https://30daysofjs.netlify.app/28%20-%20music%20player/)                          |
+| 29  |    [To Do List](https://30daysofjs.netlify.app/29%20-%20to%20do%20list/)                            |
+| 30  |    [Tic Tac Toe](https://30daysofjs.netlify.app/30%20-%20tic%20tac%20toe/)                          |
 
 ## License
 
