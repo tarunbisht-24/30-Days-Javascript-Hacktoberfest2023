@@ -39,7 +39,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 29  |    [To Do List](https://30daysofjs.netlify.app/29%20-%20to%20do%20list/)                            |
 | 30  |    [Tic Tac Toe](https://30daysofjs.netlify.app/30%20-%20tic%20tac%20toe/)                          |
 
-## License
+## Licensehmm
 
 This project follows the [MIT License](/LICENSE).
 
