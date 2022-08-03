@@ -24,7 +24,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 14  |    [JavaScript References VS Copying](https://30daysofjs.netlify.app/14%20-%20visit%20counter/)     |
 | 15  |    [LocalStorage](https://30daysofjs.netlify.app/15%20-%20joke%20generator/)                        |
 | 16  |    [Mouse Move Shadow](https://30daysofjs.netlify.app/16%20-%20countdown%20timer/)                  |
-| 17  |    [Text Speed Control](https://30daysofjs.netlify.app/17%20-%20text%20speed%20control/)            |
+| 17  |    [Sort Without Articles](https://30daysofjs.netlify.app/17%20-%20text%20speed%20control/)         |
 | 18  |    [Stopwatch](https://30daysofjs.netlify.app/18%20-%20stopwatch/)                                  |
 | 19  |    [Traffic Lights](https://30daysofjs.netlify.app/19%20-traffic%20lights/)                         |
 | 20  |    [Levitate Board](https://30daysofjs.netlify.app/20%20-%20levitate%20board/)                      |
@@ -39,7 +39,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 29  |    [To Do List](https://30daysofjs.netlify.app/29%20-%20to%20do%20list/)                            |
 | 30  |    [Tic Tac Toe](https://30daysofjs.netlify.app/30%20-%20tic%20tac%20toe/)                          |
 
-## Licensehmmbruh
+## License
 
 This project follows the [MIT License](/LICENSE).
 
