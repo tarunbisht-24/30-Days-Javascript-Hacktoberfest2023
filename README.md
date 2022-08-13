@@ -25,7 +25,7 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 | 15  |    [LocalStorage](https://30daysofjs.netlify.app/15%20-%20joke%20generator/)                        |
 | 16  |    [Mouse Move Shadow](https://30daysofjs.netlify.app/16%20-%20countdown%20timer/)                  |
 | 17  |    [Sort Without Articles](https://30daysofjs.netlify.app/17%20-%20text%20speed%20control/)         |
-| 18  |    [Stopwatch](https://30daysofjs.netlify.app/18%20-%20stopwatch/)                                  |
+| 18  |    [Next Gonna](https://30daysofjs.netlify.app/18%20-%20stopwatch/)                                 |
 | 19  |    [Traffic Lights](https://30daysofjs.netlify.app/19%20-traffic%20lights/)                         |
 | 20  |    [Levitate Board](https://30daysofjs.netlify.app/20%20-%20levitate%20board/)                      |
 | 21  |    [Wave Effect](https://30daysofjs.netlify.app/21%20-%20wave%20effect/)                            |
