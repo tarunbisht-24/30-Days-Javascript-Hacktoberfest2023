@@ -3,7 +3,7 @@
 # Submit your PR on this new repo [Hacktoberfest](https://github.com/tarunbisht-24/30-Days-Javascript) , There I am merging all PR. 
 
 In this current repo, there are a lot of conflicts, I am not merging until all conflicts get resolved.
-Hacktoberfest { [Live Website](](https://github.com/tarunbisht-24/30-Days-Javascript)/)}
+Hacktoberfest {[Live Website](https://github.com/tarunbisht-24/30-Days-Javascript)}
 
 
 **This is a beginner-friendly project to help you get started with your
@@ -36,9 +36,15 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 ```terminal
 git clone https://github.com/tarunbisht-24/30-Days-Javascript.git
 ```
-- Navigate to project directory.
+
+- Create your project folder
 ```terminal
-cd 30-Days-Javascript
+mkdir your-project-name
+```
+
+- Navigate to your project directory.
+```terminal
+cd your-project-name
 ```
 
 - Create a new Branch
