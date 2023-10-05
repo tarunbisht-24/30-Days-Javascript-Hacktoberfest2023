@@ -134,13 +134,13 @@ For more information on syncing forks [read this article from Github](https://he
 
 ## View Live Demo
 
-<pre><center><a href="https://tarunbisht-24.github.io/"><b>30daysofjs.netlify.app</b></a></center></pre>
+<pre><center><a href="https://github.com/tarunbisht-24/30-Days-Javascript"><b>30daysofjs.netlify.app</b></a></center></pre>
 
 | Day |                                                      Name                                           |
 | --- | :-------------------------------------------------------------------------------------------------: |
-| 1   |    [Drum Kit](https://30daysofjs.netlify.app/01%20-%20drum%20kit/)                                  |
-| 2   |    [Analog Clock](https://30daysofjs.netlify.app/02%20-%20clock/)                                   |
-| 3   |    [CSS Variables](https://30daysofjs.netlify.app/03%20-%20random%20color%20generator/)             |
+| 1   |    [Drum Kit](https://taurnbisht-24.github.io/30-Days-Javascript-Hacktoberfest2023/01 - Drum Kit/index.html) |
+| 2   |    [Analog Clock](https://taurnbisht-24.github.io/30-Days-Javascript-Hacktoberfest2023/01 - Drum Kit/index.html)    |
+| 3   |    [CSS Variables](https://taurnbisht-24.github.io/30-Days-Javascript-Hacktoberfest2023/01 - Drum Kit/index.html)   |
 | 4   |    [JS Array Cardio](https://30daysofjs.netlify.app/04%20-%20digital%20clock/)                      |
 | 5   |    [Flexbox Panel Gallery](https://30daysofjs.netlify.app/05%20password%20generator/)               |
 | 6   |    [Type Ahead](https://30daysofjs.netlify.app/06%20-%20calendar/)                                  |
