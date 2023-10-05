@@ -138,7 +138,7 @@ For more information on syncing forks [read this article from Github](https://he
 
 | Day |                                                      Name                                           |
 | --- | :-------------------------------------------------------------------------------------------------: |
-| 1   |    [Drum Kit](https://taurnbisht-24.github.io/30-Days-Javascript-Hacktoberfest2023/01%20%-%20%Drum Kit/index.html) |
+| 1   |    [Drum Kit](https://taurnbisht-24.github.io/30-Days-Javascript-Hacktoberfest2023/01%20-%20Drum%20Kit/index.html) |
 | 2   |    [Analog Clock](https://taurnbisht-24.github.io/30-Days-Javascript-Hacktoberfest2023/01 - Drum Kit/index.html)    |
 | 3   |    [CSS Variables](https://taurnbisht-24.github.io/30-Days-Javascript-Hacktoberfest2023/01 - Drum Kit/index.html)   |
 | 4   |    [JS Array Cardio](https://30daysofjs.netlify.app/04%20-%20digital%20clock/)                      |
