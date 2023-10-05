@@ -1,8 +1,8 @@
 # [30 Days Of JavaScript](30daysofjs.netlify.app) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/tarunbisht-24/30-Days-Javascript) , There we are merging all PR. 
+# Submit your PR on this new repo [Hacktoberfest](https://github.com/tarunbisht-24/30-Days-Javascript) , There I am merging all PR. 
 
-In this current repo, there are a lot of conflicts, we are not merging until all conflicts get resolved.
+In this current repo, there are a lot of conflicts, I am not merging until all conflicts get resolved.
 Hacktoberfest { [Live Website](](https://github.com/tarunbisht-24/30-Days-Javascript)/)}
 
 
@@ -10,9 +10,6 @@ Hacktoberfest { [Live Website](](https://github.com/tarunbisht-24/30-Days-Javasc
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy Learning <3 💙 !!**
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
-
-Hacktoberfest 2023
-![Event Completed](/scripts/Event_Completed_.png)
 
 # 📌 Videos 📽️:
 
@@ -23,8 +20,8 @@ Hacktoberfest 2023
 
 # Contribution Rules📚:
 
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
+- You are allowed to make pull requests that break the rules. I will review that and merge it ;)
+- Do NOT add any build steps e.g npm install (I want to keep this a simple static site)
 - Do NOT remove other content.
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works
 <!-- - Add your name to the contributorsList file. -->
@@ -104,11 +101,11 @@ For more information on syncing forks [read this article from Github](https://he
   - Anyone with a github account and who is signed up for
 [hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
 - Are you getting paid for this?
-  - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
+  - Sadly no. But I think I should. This is 100% unofficial and I do it for fun, fame and glory.
 - Who are you and why are you doing this?
   - I am a developer from India [Tarun Bisht](https://github.com/tarunbisht-24). I am doing this because I love Open Source and Hacktoberfest. I want to make it easier for people to get started with Hacktoberfest and Open Source.
 - Why are you not using digitalocean?
-  - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
+  - Because I only know JavaScript and suck at servers. I use [now](https://zeit.co/now) instead.
 
 - Should I come closer to the text saying 'Don't come closer' on the left side of the home tab ?
   - Nope.
@@ -124,15 +121,13 @@ For more information on syncing forks [read this article from Github](https://he
 
 
 
-###### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3*
+###### *I will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3*
 <br>
 
 ## Our Top Contributors 
 <p align="center"><a href="https://github.com/tarunbisht-24/30-Days-Javascript/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=tarunbisht-24/30-Days-Javscript" />
 </a></p>
-
-Repo containing all the projects made in 30 Days while completing the <b>30 Days of JavaScript Challenge</b>.
 
 ## View Live Demo
 
@@ -175,4 +170,4 @@ Repo containing all the projects made in 30 Days while completing the <b>30 Days
 
 This project follows the [MIT License](/LICENSE).
 
-#### Made with ♥ by <a href="https://tarunbisht-24.github.io/">Tarun Bisht</a>
+#### Made with ♥ by <a href="https://github.com/tarunbisht-24/">Tarun Bisht</a>
